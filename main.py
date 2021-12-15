@@ -22,8 +22,8 @@ async def on_message(message):
     if message.content.startswith('$sch'):
         await message.channel.send(data[curr_date])
 
-client.run('OTIwNTcwMjk3NzY0MTc1OTAy.YbmR5g.gSyv8aTkZODtvd5wZfrBC26ph_8')
-# client.run(my_secret)
+# client.run('OTIwNTcwMjk3NzY0MTc1OTAy.YbmR5g.gSyv8aTkZODtvd5wZfrBC26ph_8')
+client.run(my_secret)
 
 
 
