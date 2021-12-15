@@ -1,0 +1,9 @@
+{
+    "sunday": "10:15 - 11:45 --> Thermodynamics(AKJ)\n11:45 - 12:30 --> Maths(PA)\n1:00 - 1:45 --> Workshop Technology[L] (Mistri Sir)\ngroup A\n1:45 - 4:00 --> Workshop Technology[P] (SGP+KM+GM)",
+    "monday": "Group A\n10:15 - 1:00 --> Engineering Drawing(NA+TRS)\nGroup B\n11:00 - 11:45 --> Basic Electronics[T] (PCR)\n11:45-12:30 --> Chemistry(SP) [T]\n1:00 - 4:00 --> Engineering Drawing(NA+LM) ",
+    "tuesday": "Group A\n11:00-11:45 --> Chemistry(SP) [T]\nBoth Groups\n11:45 - 12:30 --> Maths (AKB)\n1:00-1:45 --> Cheistry(RMS) (Pollution )\n1:45 - 4:00 --> Thermodynamics[L] and Basic Electronics[L] ALTERNATELY  ",
+    "wednesday": "10:15 - 11:45 --> Thermodynamics(AKJ)\n11:45 - 12:30 --> Basic Electronics (JKM)\nGroup B \n1:45 - 4:00 --> Workshop Technology[P] (BMS+HCM+SGP)",
+    "thursday": "10:15 - 11:00 --> Maths(RPP)\n11:00 - 11:45 --> Maths(GBJ)\n11:45 - 12:30 --> Maths(GG)\n1:00 - 1:45  --> Chemistry[L](AS) (Transition Metal)\n1:45 - 4:00  --> Chermistry Practical",
+    "friday": "Group A\n10:15 - 11:00 --> Basic Electronics[T] (PCR)\nBoth Groups\n11:45 - 1:00 --> Basic Electronics (JKM)\n1:00 - 1:45 --> Chemistry[L] (SJ) (Organic)",
+    "saturday": "Enjoy conpleting your assignment"
+}
